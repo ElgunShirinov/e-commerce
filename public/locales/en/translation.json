@@ -1,0 +1,120 @@
+{
+    "navbar":{
+        "1":"Home",
+        "2":"Our store",
+        "3":"Blogs",
+        "4":"Contact"
+    },
+    "homeBanner":{
+        "1":"SUPERCHARGED FOR PROS.",
+        "2":"BEST SALE",
+        "3":"NEW ARRIVAL",
+        "4":"FREE ENGRAVING"
+    },
+    "serviceTitle":{
+        "1":"Free Shipping",
+        "2":"Daily Surprise Offers",
+        "3":"Support 24/7",
+        "4":"Affordable Prices",
+        "5":"Secure Payments"
+    },
+    "serviceTagline":{
+        "1":"From all orders over $100",
+        "2":"Save up to 25% off",
+        "3":"Shop with an expert",
+        "4":"Get Factory direct price",
+        "5":"100% Protected Payments"
+    },
+    "category":{
+        "1":"Computers & Laptop",
+        "2":"Cameras & Videos",
+        "3":"Smart Television",
+        "4":"Smartwatches",
+        "5":"Music & Gaming",
+        "6":"Mobiles & Tablets",
+        "7":"Headphones",
+        "8":"Accessories",
+        "9":"Portable Speakers",
+        "10":"Home Appliances"
+    },
+    "categoryTitle":{
+        "1":"item"
+    },
+    "filterHead":{
+        "1":"Filter By Category"
+    },
+    "filterTitle":{
+        "1":"All",
+        "2":"Headphone",
+        "3":"Watch",
+        "4":"Camera",
+        "5":"Phone",
+        "6":"Tablet & Laptop",
+        "7":"Clear"
+    },
+    "search":{
+        "1":"Search Product Here..."
+    },
+    "headphones":{
+        "1":"Kids Headphones Bulk 10 Pack Multi",
+        "2":"Bang & Olufsen Beoplay H9i Wireless"
+    },
+    "watches":{
+        "1":"APPLE Watch Series 2 – 42 mm Stainless Steel",
+        "2":"Smart Watch with Advanced Health Monitoring"
+    },
+    "cameras":{
+        "1":"Olympus pen E-PL9 kit with 14-42, EZ lens",
+        "2":"New Upgraded 2K 1080P Streaming Webcam",
+        "3":"JBL Link Music Bluetooth Lautsprecher"
+    },
+    "phones":{
+        "1":"Samsung Galaxy A23 128GB 6GB RAM Purple",
+        "2":"Iphone 12",
+        "3":"Samsung Galaxy Note10+ Mobile Phone; Sim Free"
+    },
+    "laptops":{
+        "1":"Honor T1 7.0 1 GB RAM 8 GB ROM 7 inch with Wi-Fi",
+        "2":"HD Resolution Indoor Wi-Fi Security Camera",
+        "3":"BoAt Rockerz 400 Bluetooth Headset Pink"
+    },
+    "storeItems":{
+        "1":"Kids Headphones Bulk 10 Pack Multi Colored",
+        "2":"APPLE Watch Series 2 – 42 mm Stainless Steel",
+        "3":"Smart Watch with Advanced Health Monitoring",
+        "4":"Olympus pen E-PL9 kit with 14-42, EZ lens",
+        "5":"Bang & Olufsen Beoplay H9i Wireless Over-Ear",
+        "6":"Samsung Galaxy A23 128GB 6GB RAM Purple Color",
+        "7":"New Upgraded 2K 1080P Streaming Webcam with Ring",
+        "8":"Honor T1 7.0 1 GB RAM 8 GB ROM 7 inch with Wi-Fi",
+        "9":"HD Resolution Indoor Wi-Fi Security Camera",
+        "10":"JBL Link Music Bluetooth Lautsprecher",
+        "11":"BoAt Rockerz 400 Bluetooth Headset Pink",
+        "12":"Iphone 12",
+        "13":"Samsung Galaxy Note10+ Mobile Phone"
+    },
+    "login":{
+        "1":"Log In"
+    },
+    "logout":{
+        "1":"Log Out"
+    },
+    "forgot":{
+        "1":"Forgot Password"
+    },
+    "shopcart":{
+        "1":"Img",
+        "2":"Title",
+        "3":"Price",
+        "4":"Quantity",
+        "5":"Del",
+        "6":"Cart Clear",
+        "7":"Total cart",
+        "8":"Total items",
+        "9":"SubTotal",
+        "10":"Taxes and shipping calculated at checkout",
+        "11":"Continue To Shopping",
+        "12":"Checkout"
+    }
+    
+}
