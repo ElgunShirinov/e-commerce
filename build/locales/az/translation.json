@@ -1,0 +1,119 @@
+{
+    "navbar":{
+        "1":"Ana səyfə",
+        "2":"Mağaza",
+        "3":"Bloq",
+        "4":"Əlaqə"
+    },
+    "homeBanner":{
+        "1":"SUPERŞARJLI",
+        "2":"Ən yaxşı satış",
+        "3":"Yeni gəliş",
+        "4":"pulsuz oyma"
+    },
+    "serviceTitle":{
+        "1":"Pulsuz çatdırılma",
+        "2":"Gündəlik təkliflər",
+        "3":"24/7 dəstək",
+        "4":"Sərfəli qiymətlər",
+        "5":"Təhlükəsiz ödəmə"
+    },
+    "serviceTagline":{
+        "1":"$100-dan yuxarı bütün sifarişlər",
+        "2":"25%-dək qənaət",
+        "3":"Mütəxəssis dəstəyi",
+        "4":"İstehsalçıdan birbaşa qiymət",
+        "5":"100% qorunan ödənişlər"
+    },
+    "category":{
+        "1":"Noutbuklar",
+        "2":"Kameralar",
+        "3":"Televizor",
+        "4":"Ağıllı saat",
+        "5":"Musiqi və oyun",
+        "6":"Telefonlar",
+        "7":"Qulaqcıqlar",
+        "8":"Aksesuar",
+        "9":"Səsucaldan",
+        "10":"Ev alətləri"
+    },
+    "categoryTitle":{
+        "1":"ədəd"
+    },
+    "filterHead":{
+        "1":"Kateqoriya üzrə seçim"
+    },
+    "filterTitle":{
+        "1":"Hamısı",
+        "2":"Qulaqcıq",
+        "3":"Saat",
+        "4":"Kamera",
+        "5":"Telefon",
+        "6":"Planşet və Noutbuk",
+        "7":"Təmizlə"
+    },
+    "search":{
+        "1":"Məhsulu buradan axtarın..."
+    },
+    "headphones":{
+        "1":"Uşaq Qulaqcıqları Toplu 10 Paket Çox Rəngli",
+        "2":"Bang & Olufsen Beoplay blutuz"
+    },
+    "watches":{
+        "1":"APPLE Watch seriası 2 - 42 mm paslanmaz polad",
+        "2":"Qabaqcıl Sağlamlıq Monitorinqi ilə Ağıllı Saat"
+    },
+    "cameras":{
+        "1":"14-42, EZ obyektivli Olympus qələm E-PL9 dəsti",
+        "2":"Yeni Təkmilləşdirilmiş 2K 1080P Axın Veb Kamerası",
+        "3":"JBL Link Musiqi Bluetooth Lautsprecher"
+    },
+    "phones":{
+        "1":"Samsung Galaxy A23 128GB 6GB RAM Bənövşəyi",
+        "2":"Iphone 12",
+        "3":"Samsung Galaxy Note10+ mobil telefonu; Simsiz"
+    },
+    "laptops":{
+        "1":"Honor T1 7.0 1 GB RAM 8 GB ROM Wi-Fi ilə 7 düym",
+        "2":"HD Çözünürlüklü Daxili Wi-Fi Təhlükəsizlik Kamerası",
+        "3":"BoAt Rockerz 400 Bluetooth Qulaqlıq Çəhrayı"
+    },
+    "storeItems":{
+        "1":"Uşaq Qulaqcıqları Toplu 10 Paket Çox Rəngli",
+        "2":"APPLE Watch seriası 2 - 42 mm paslanmaz polad",
+        "3":"Qabaqcıl Sağlamlıq Monitorinqi ilə Ağıllı Saat",
+        "4":"14-42, EZ obyektivli Olympus qələm E-PL9 dəsti",
+        "5":"Bang & Olufsen Beoplay blutuz",
+        "6":"Samsung Galaxy A23 128GB 6GB RAM Bənövşəyi",
+        "7":"Yeni Təkmilləşdirilmiş 2K 1080P Axın Veb Kamerası",
+        "8":"Honor T1 7.0 1 GB RAM 8 GB ROM Wi-Fi ilə 7 düym",
+        "9":"HD Çözünürlüklü Daxili Wi-Fi Təhlükəsizlik Kamerası",
+        "10":"JBL Link Musiqi Bluetooth Lautsprecher",
+        "11":"BoAt Rockerz 400 Bluetooth Qulaqlıq Çəhrayı",
+        "12":"Iphone 12",
+        "13":"Samsung Galaxy Note10+ mobil telefonu; Simsiz"
+    },
+    "login":{
+        "1":"Daxil ol"
+    },
+    "logout":{
+        "1":"Çıxmaq"
+    },
+    "forgot":{
+        "1":"Şifrəni unutmusunuz"
+    },
+    "shopcart":{
+        "1":"Foto",
+        "2":"Başlıq",
+        "3":"Qiymət",
+        "4":"Say",
+        "5":"Sil",
+        "6":"Kartı Təmizlə",
+        "7":"Kart cəmi",
+        "8":"Məhsul cəmi",
+        "9":"Ümumi məbləğ",
+        "10":"Vergilər və çatdırılma ödəniş zamanı hesablanır",
+        "11":"Alış-verişə davam edin",
+        "12":"Alışı tamamla"
+    }
+}
